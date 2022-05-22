@@ -16,3 +16,7 @@ Parte 2
 Realizamos un análisis de los trabajadores para determinar quiénes merecen un bono por haber ingresado a trabajar antes del año 2000. Encontramos que en total 8 personas seria merecedoras de este bono y ordenamos de manera ascendente el año de ingreso de cada uno, detallando además su ID de trabajador y nombre completo. Por otro lado, la bonificación extra se la llevara Nuzhat Zaman con su respectivo ID NZ7677443, el cual realiza la labor de cuidados intensivos.
 Para mayor detalla y análisis de las personas que recibirán el bono por ingresar antes del 2000, analizamos sus salarios y el departamento al que pertenecen, acá encontramos que no contamos con el salario ni el departamento del ganador del bono por cuidados intensivos. De igual manera nos faltan estos datos de otros dos trabajadores ganadores del bono. Especificamente nos faltan datos de Michael Michael, Nuzhat Zaman, Patricia Butler y Pamela Ida.
 
+Analizando el staff del zoológico mostramos los datos principales de estas personas como nombre, salario y actividad específica.
+
+Para determinar cuanto dinero se paga por cada trabajador hemos agrupado por departamento, resultando que la mayor cantidad se la lleva el departamento de administración con 5400, le sigue finanzas con 3000, luego recursos humanos y relaciones con huéspedes con un monto de 2400, mantenimiento 1500 y finalmente compras y cuentas con 1200. 
+
