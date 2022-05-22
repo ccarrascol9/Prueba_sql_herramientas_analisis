@@ -12,3 +12,4 @@ Para mayor detalle visualizamos el gasto en alimento de acuerdo a la clase, dond
 Finalmente contamos los distintos tipos de alimentos que estan registrados en el zoológico, lo que nos da una totalidad de 11.
 
 Parte 2
+Realizamos un análisis de los trabajadores para determinar quiénes merecen un bono por haber ingresado a trabajar antes del año 2000. Encontramos que en total 8 personas seria merecedoras de este bono y ordenamos de manera ascendente el año de ingreso de cada uno, detallando además su ID de trabajador y nombre completo.
