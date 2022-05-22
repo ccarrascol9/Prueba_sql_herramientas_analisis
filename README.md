@@ -12,4 +12,7 @@ Para mayor detalle visualizamos el gasto en alimento de acuerdo a la clase, dond
 Finalmente contamos los distintos tipos de alimentos que estan registrados en el zoológico, lo que nos da una totalidad de 11.
 
 Parte 2
-Realizamos un análisis de los trabajadores para determinar quiénes merecen un bono por haber ingresado a trabajar antes del año 2000. Encontramos que en total 8 personas seria merecedoras de este bono y ordenamos de manera ascendente el año de ingreso de cada uno, detallando además su ID de trabajador y nombre completo.
+
+Realizamos un análisis de los trabajadores para determinar quiénes merecen un bono por haber ingresado a trabajar antes del año 2000. Encontramos que en total 8 personas seria merecedoras de este bono y ordenamos de manera ascendente el año de ingreso de cada uno, detallando además su ID de trabajador y nombre completo. Por otro lado, la bonificación extra se la llevara Nuzhat Zaman con su respectivo ID NZ7677443, el cual realiza la labor de cuidados intensivos.
+Para mayor detalla y análisis de las personas que recibirán el bono por ingresar antes del 2000, analizamos sus salarios y el departamento al que pertenecen, acá encontramos que no contamos con el salario ni el departamento del ganador del bono por cuidados intensivos. De igual manera nos faltan estos datos de otros dos trabajadores ganadores del bono.
+
