@@ -27,6 +27,8 @@ PARTE 3
 
 Analizaremos uno a uno los aspectos demográficos más relevantes de los visitantes para detectar el público de interés y que genera mayores ingresos.
 
+Verificamos como ciudad de interés Fitchburg la cual se lleva la mayor cantidad recaudación. De todas formas sería interesante prestar atención a las 3 primeras ciudades que serían Fitchburg, Lincoln y York.
+
 En lo que respecta a los estados prestaría atención a los 6 principales estados que tienen la mayor recaudación, con esto nos referimos a Massachusetts, Florida, Nebraska, California, Indiana y Nuevo Hampshire.
 
 Si nos fijamos en la edad una predominancia en las personan de 21 años en asistir al zoológico, esta edad alcanza la mayor cantidad de visitantes en este caso 5 y logra la mayor recaudación.
