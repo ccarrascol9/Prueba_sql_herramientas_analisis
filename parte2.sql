@@ -1,0 +1,30 @@
+SELECT EmployeeID,EmployeeFullName,HireDate, YEAR(HireDate) AS ANIO_DE_INGRESO
+FROM EMPLOYEE 
+WHERE YEAR(HireDate)<2000
+ORDER BY ANIO_DE_INGRESO ASC
+
+SELECT EmployeeID,EmployeeFullName,Skill
+FROM ZSKILLS z INNER JOIN ZOOKEEPER z2 ON z.KSkillID = z2.KeeperID INNER JOIN EMPLOYEE e ON z2.ZEmpID =e.EmployeeID 
+WHERE Skill ='Intensive Care'
+
+SELECT EmployeeID,EmployeeFullName,HireDate, YEAR(HireDate) AS ANIO_DE_INGRESO, Department, Salary 
+FROM OSTAFF o RIGHT JOIN EMPLOYEE e ON o.OEmpID  = e.EmployeeID
+WHERE YEAR(HireDate)<2000
+
+SELECT EmployeeFullName,Department
+FROM OSTAFF o INNER JOIN EMPLOYEE e ON o.OEmpID  = e.EmployeeID
+
+SELECT EmployeeFullName
+FROM ZOOKEEPER z  INNER JOIN EMPLOYEE e ON z.ZEmpID  = e.EmployeeID
+
+SELECT Department,SUM(Salary) AS CANT
+FROM OSTAFF 
+GROUP BY Department 
+ORDER BY CANT DESC
+
+SELECT SUM(Salary) AS CANT
+FROM OSTAFF 
+
+SELECT SUM(Salary) AS CANT
+FROM ZOOKEEPER
+
