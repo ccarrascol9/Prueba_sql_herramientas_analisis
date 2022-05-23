@@ -33,3 +33,5 @@ Si nos fijamos en la edad una predominancia en las personan de 21 años en asist
 Finalmente la última descripción realizada alude a la categoría del visitante, la cual es determinante al momento de elegir el público, por mayoría vemos que son los adultos quienes compran la mayor cantidad de ticket, es este caso tenemos 46 adultos, 11 estudiantes, 9 niños y 6 adultos mayor.
 
 Desistiría en potenciales visitantes a las edad extremas, ya que al calcular la edad mínima y máxima de los visitantes, no encontramos edades menores a los 8 años , ni tampoco visitantes que superen los 66 años.
+
+Realizamos el calculo total de las personas sin repetir nombre encontrando un total de 91. Para esto realizamos un calculo por separado de los visitantes que suman 71 y los empleados que suman 20. Por lo tanto no existe una persona que no sea parte ni del zoológico ni de los visitantes.
