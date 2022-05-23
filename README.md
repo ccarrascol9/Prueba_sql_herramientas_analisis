@@ -31,3 +31,5 @@ En lo que respecta a los estados prestaría atención a los 6 principales estado
 Si nos fijamos en la edad una predominancia en las personan de 21 años en asistir al zoológico, esta edad alcanza la mayor cantidad de visitantes en este caso 5 y logra la mayor recaudación.
 
 Finalmente la última descripción realizada alude a la categoría del visitante, la cual es determinante al momento de elegir el público, por mayoría vemos que son los adultos quienes compran la mayor cantidad de ticket, es este caso tenemos 46 adultos, 11 estudiantes, 9 niños y 6 adultos mayor.
+
+Desistiría en potenciales visitantes a las edad extremas, ya que al calcular la edad mínima y máxima de los visitantes, no encontramos edades menores a los 8 años , ni tampoco visitantes que superen los 66 años.
