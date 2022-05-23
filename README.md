@@ -20,3 +20,5 @@ Analizando el staff del zoológico mostramos los datos principales de estas pers
 
 Para determinar cuanto dinero se paga por cada trabajador hemos agrupado por departamento, resultando que la mayor cantidad se la lleva el departamento de administración con 5400, le sigue finanzas con 3000, luego recursos humanos y relaciones con huéspedes con un monto de 2400, mantenimiento 1500 y finalmente compras y cuentas con 1200. 
 
+En el caso que se desee averiguar cuanto se ha pagado por cada tipo de trabajador aludiendo a los cuidadores del zoológico vs el personal, tenemos que el mayor monto se lo lleva el personal con un total de 17100 en comparación con los cuidadores que suma 14500.
+
