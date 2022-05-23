@@ -37,3 +37,7 @@ Desistiría en potenciales visitantes a las edad extremas, ya que al calcular la
 Realizamos el calculo total de las personas sin repetir nombre encontrando un total de 91. Para esto realizamos un calculo por separado de los visitantes que suman 71 y los empleados que suman 20. Por lo tanto no existe una persona que no sea parte ni del zoológico ni de los visitantes.
 
 De acuerdo a las consultas anteriores se determino que el estado que mas visita el zoológico es Massachusetts, por lo tanto, filtramos por este estado y determinamos que el ticket promedio es de 3600.
+
+Filtramos nuevamente nuestros visitantes solo con los que pertenecen a la categoría de adultos y con ello verificamos que el estado donde se encuentra la mayor cantidad de visitantes sigue siendo Massachusetts.
+
+La ultima de nuestras consultas trabajara solo con los visitantes que cumplen con tener un tipo de pase diario. Si agrupamos por ciudad y calculamos cuantos de los visitantes pertenecen a cada ciudad, nos encontramos que la mayoría esta presente en la ciudad de Lincoln con un total de 2 visitantes.
