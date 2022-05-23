@@ -28,4 +28,6 @@ Analizaremos uno a uno los aspectos demográficos más relevantes de los visitan
 
 En lo que respecta a los estados prestaría atención a los 6 principales estados que tienen la mayor recaudación, con esto nos referimos a Massachusetts, Florida, Nebraska, California, Indiana y Nuevo Hampshire.
 
+Si nos fijamos en la edad una predominancia en las personan de 21 años en asistir al zoológico, esta edad alcanza la mayor cantidad de visitantes en este caso 5 y logra la mayor recaudación.
+
 Finalmente la última descripción realizada alude a la categoría del visitante, la cual es determinante al momento de elegir el público, por mayoría vemos que son los adultos quienes compran la mayor cantidad de ticket, es este caso tenemos 46 adultos, 11 estudiantes, 9 niños y 6 adultos mayor.
