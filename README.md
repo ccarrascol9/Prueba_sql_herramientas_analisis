@@ -1,7 +1,7 @@
 # Prueba_sql_herramientas_analisis
 Prueba Número 1- Correspondiente al módulo 2:  Herramientas de Análisis de Datos
 
-Parte 1
+PARTE 1
 
 Como primer punto se identifica el alimento que come cada a animal dentro de los que se encuentra carne, pescado, bambú, algas, hojas de bichos, verduras, bichos, fruta vegetales, hormigas, camaron y verduras de granos de alfalfa. Todos estos alimentos con el respectivo nombre particular del animal que lo consume.
 
@@ -11,7 +11,7 @@ Para mayor detalle visualizamos el gasto en alimento de acuerdo a la clase, dond
 
 Finalmente contamos los distintos tipos de alimentos que estan registrados en el zoológico, lo que nos da una totalidad de 11.
 
-Parte 2
+PARTE 2
 
 Realizamos un análisis de los trabajadores para determinar quiénes merecen un bono por haber ingresado a trabajar antes del año 2000. Encontramos que en total 8 personas seria merecedoras de este bono y ordenamos de manera ascendente el año de ingreso de cada uno, detallando además su ID de trabajador y nombre completo. Por otro lado, la bonificación extra se la llevara Nuzhat Zaman con su respectivo ID NZ7677443, el cual realiza la labor de cuidados intensivos.
 Para mayor detalla y análisis de las personas que recibirán el bono por ingresar antes del 2000, analizamos sus salarios y el departamento al que pertenecen, acá encontramos que no contamos con el salario ni el departamento del ganador del bono por cuidados intensivos. De igual manera nos faltan estos datos de otros dos trabajadores ganadores del bono. Especificamente nos faltan datos de Michael Michael, Nuzhat Zaman, Patricia Butler y Pamela Ida.
@@ -22,3 +22,10 @@ Para determinar cuanto dinero se paga por cada trabajador hemos agrupado por dep
 
 En el caso que se desee averiguar cuanto se ha pagado por cada tipo de trabajador aludiendo a los cuidadores del zoológico vs el personal, tenemos que el mayor monto se lo lleva el personal con un total de 17100 en comparación con los cuidadores que suma 14500.
 
+PARTE 3
+
+Analizaremos uno a uno los aspectos demográficos más relevantes de los visitantes para detectar el público de interés y que genera mayores ingresos.
+
+En lo que respecta a los estados prestaría atención a los 6 principales estados que tienen la mayor recaudación, con esto nos referimos a Massachusetts, Florida, Nebraska, California, Indiana y Nuevo Hampshire.
+
+Finalmente la última descripción realizada alude a la categoría del visitante, la cual es determinante al momento de elegir el público, por mayoría vemos que son los adultos quienes compran la mayor cantidad de ticket, es este caso tenemos 46 adultos, 11 estudiantes, 9 niños y 6 adultos mayor.
